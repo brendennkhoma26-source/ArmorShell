@@ -1,6 +1,6 @@
 {
-  "name": "ArmorShell Firewall",
-  "description": "A high-performance visual firewall management dashboard with real-time traffic monitoring and automated threat mitigation controls.",
+  "name": "AegisGrid Tactical",
+  "description": "A high-performance tactical firewall management dashboard with real-time traffic monitoring and automated threat mitigation controls.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
