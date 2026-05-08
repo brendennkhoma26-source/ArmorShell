@@ -1,0 +1,6 @@
+{
+  "name": "ArmorShell Firewall",
+  "description": "A high-performance visual firewall management dashboard with real-time traffic monitoring and automated threat mitigation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
