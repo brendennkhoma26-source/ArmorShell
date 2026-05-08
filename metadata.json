@@ -1,6 +1,6 @@
 {
-  "name": "AegisGrid Tactical",
+  "name": "ObsidianVigil Tactical",
   "description": "A high-performance tactical firewall management dashboard with real-time traffic monitoring and automated threat mitigation controls.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["camera"],
   "majorCapabilities": []
 }
